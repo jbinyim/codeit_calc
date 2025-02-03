@@ -9,6 +9,9 @@ function subtract(a, b) {
 function multiply(a, b) {
   return a * b;
 }
+function testmultiply(a, b) {
+  return a / b;
+}
 
 function testAdd() {
   console.log(add(1, 1) === 2);
